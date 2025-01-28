@@ -75,6 +75,10 @@ padding-left: 20px;
 width: 200px;
 }
 
+.picture-container {
+	width: 660px;
+}
+
 footer {
 width: 900px;
 margin: 0 auto;
