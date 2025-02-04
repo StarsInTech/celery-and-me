@@ -99,7 +99,7 @@ color: #da92aa;
 }
 
 a:link, a:visited {
-color:#ffebdc;
+color:var(--citron);
 text-decoration: none;
 }
 
