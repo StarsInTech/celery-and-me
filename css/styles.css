@@ -99,7 +99,7 @@ color: #da92aa;
 }
 
 a:link, a:visited {
-color:#009898;
+color:#ffebdc;
 text-decoration: none;
 }
 
@@ -231,6 +231,7 @@ color: var(--citron);
 .featured {
 	text-shadow: 2px 2px #666;
 }
+
 
 
 
