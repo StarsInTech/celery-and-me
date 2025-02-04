@@ -148,6 +148,11 @@ nav .menu a:hover {
 text-decoration: underline;
 }
 
+img {
+	border-radius: 8px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+}
+
 /** HEADER */
 
 header {
@@ -159,6 +164,7 @@ header {
 header img {
 	width: 175px;
 	height: 175px;
+	box-shadow: none;
 }
 
 /** ARTICLES **/
@@ -169,6 +175,10 @@ margin: 0;
 
 article img {
 border: none;
+}
+
+.about-me img {
+	box-shadow: none;
 }
 
 #content p, ul, ol, hr {
@@ -216,6 +226,10 @@ aside h3 {
 font-size: 22px;
 margin-bottom: 20px;
 color: var(--citron);
+}
+
+.featured {
+	text-shadow: 2px 2px #666;
 }
 
 
