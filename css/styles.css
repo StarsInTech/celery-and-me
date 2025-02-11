@@ -43,6 +43,7 @@ margin-top: 20px;
 	display: flex;
 	flex-flow: wrap;
 	align-items: center;
+	padding: 1rem;
 }
 
 nav {
