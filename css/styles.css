@@ -225,6 +225,10 @@ header h1 {
 	margin-right: 0;
 	margin-bottom: 24px;
 }
+
+.howard-font {
+	font-size: 24px;
+}
 /* sidebar and footer widget blocks */
 
 .asidebox {
@@ -243,6 +247,18 @@ color: var(--citron);
 
 .featured {
 	text-shadow: 2px 2px #666;
+}
+
+.socials svg {
+	width: 100px;
+}
+
+.socials svg:hover {
+	fill: var(--citron);
+}
+
+.flex-socials {
+	display: flex;
 }
 
 
