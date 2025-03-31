@@ -46,6 +46,20 @@ margin-top: 20px;
 	padding: 1rem;
 }
 
+.leaderboard-flex {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 1rem;
+}
+
+.square-flex {
+	display: flex;
+	justify-content: end;
+	align-items: center;
+	padding: 1rem;
+}
+
 nav {
 width: 940px;
 height: 52px;
@@ -175,8 +189,11 @@ header img {
 	box-shadow: none;
 }
 
-/** POST **/
+/** LEADERBOARD BANNER **/
 
+.leaderboard a {
+	justify-items: center;
+}
 
 /** ARTICLES **/
 
