@@ -60,6 +60,13 @@ margin-top: 20px;
 	padding: 1rem;
 }
 
+.advert-flex {
+	display: flex;
+	flex-flow: wrap;
+	align-items: center;
+	gap: 3rem;
+}
+
 nav {
 width: 940px;
 height: 52px;
